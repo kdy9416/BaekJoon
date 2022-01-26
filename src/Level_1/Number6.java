@@ -10,6 +10,6 @@ public class Number6 {
 		int a,b;
 		a=scan.nextInt();
 		b=scan.nextInt();
-		System.out.print(a-b);
+		System.out.print(a - b);
 	}
 }

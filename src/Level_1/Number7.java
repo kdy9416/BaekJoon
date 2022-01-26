@@ -11,6 +11,6 @@ public class Number7 {
 			int a,b;
 			a=scan.nextInt();
 			b=scan.nextInt();
-			System.out.print(a*b);
+			System.out.print(a * b);
 	}
 }

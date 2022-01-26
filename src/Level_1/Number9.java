@@ -9,12 +9,12 @@ public class Number9 {
 		int a,b;
 		a=scan.nextInt();
 		b=scan.nextInt();
-		System.out.println(a+b);
-		System.out.println(a-b);
-		System.out.println(a*b);
-		int c =a/b;
+		System.out.println(a + b);
+		System.out.println(a - b);
+		System.out.println(a * b);
+		int c =a / b;
 		System.out.println(c);
-		System.out.println(a%b);
+		System.out.println(a % b);
 
 	}
 

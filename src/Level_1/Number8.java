@@ -11,7 +11,7 @@ public class Number8 {
 		int a,b;
 		a=scan.nextInt();
 		b=scan.nextInt();
-		double c =a/(double)b;
+		double c =a / (double)b;
 		System.out.print(c);
 	}
 }
